@@ -11,3 +11,20 @@ Dodajte tekst zadataka u tekstovi_zadatak.txt
 Stage-ujte sve promene
 Commitujte porukom "Update file name"
 Push-ujte na github
+
+3.Git zadatak
+dopuniti .gitignore fajl novim redom tako da igrnorise .log fajlove
+tako sto dodate nevi der u fajl
+*.log
+Azurirajte tekstove zadataka
+Kreirati novi fajl i paketu sa imenom ovaj_fajl_se_ignorise.log
+Proverite da li git status ne evidentira taj fajl
+Commit-ujte promenu kao "Update gitgnore file"
+Push-ujte na github
+
+
+4. Git zadatak
+Azuriraj tekstove zadataka
+Obrisite Git_Zadatak1_updated.java fajl
+Commitujete promenu kao "Delete class"
+Push-ujte promenu
