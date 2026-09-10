@@ -1,6 +1,6 @@
 package p10_09_2026;
 
-public class Git_Zadatak1 {
+public class Git_Zadatak1_updated {
     static void main() {
         System.out.println("git clone");
         System.out.println("git status");
